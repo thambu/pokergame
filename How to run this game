@@ -1,0 +1,5 @@
+sample data is stored in Poker-hand.txt
+
+To run the poker game with test data, execute the below command 
+
+"type poker-hands.txt | java -jar pokergame.jar"
