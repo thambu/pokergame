@@ -1,5 +1,5 @@
-sample data is stored in Poker-hand.txt
+sample data is stored as Poker-hand.txt. 
 
-To run the poker game with test data, execute the below command 
+To run the poker game with test data, execute the below command from project home directory (c:\\Path to project(pokergame)
 
 "type poker-hands.txt | java -jar pokergame.jar"
