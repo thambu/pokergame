@@ -1,4 +1,4 @@
-# pokergame
+# Pokergame
 
 Poker Game built on JAVA 8.
 
